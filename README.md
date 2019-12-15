@@ -32,6 +32,14 @@ A curated list of awesome Ghidra materials.
 
 * [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs. 
 
+* [Ghidra Patch Diff Correlator Project](https://github.com/threatrack/ghidra-patchdiff-correlator) - This project tries to provide additional Ghidra Version Tracking Correlators suitable for patch diffing.
+
+* [ghidra-fidb-repo](https://github.com/threatrack/ghidra-fidb-repo) - Ghidra Function ID dataset repository
+
+* [ghidra_scripts by 0x6d696368](https://github.com/0x6d696368/ghidra_scripts) - Ghidra scripts such as a RC4 decrypter, Yara search, stack string decoder, etc.
+
+* [Youtube playlist by 0x6d696368](https://www.youtube.com/playlist?list=PLXqdTlog3E_8Ucym6klVOY9RmjdIy3cbm) - Youtube playlist with short Ghidra tips and tricks
+
 ## Materials
 * [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Official material by National Security Agency
 
