@@ -28,6 +28,9 @@ A curated list of awesome Ghidra materials.
 
 * [ghidra-data](https://github.com/0x6d696368/ghidra-data) - Supporting Data Archives for Ghidra
 
+* [Daenerys](https://github.com/daenerys-sre/source) - A framework for interoperability between IDA and Ghidra
+
+* [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs. 
 
 ## Materials
 * [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc) - Black Hat USA 2019 Briefing by National Security Agency
