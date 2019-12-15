@@ -30,6 +30,7 @@ A curated list of awesome Ghidra materials.
 
 
 ## Materials
+* [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc) - Black Hat USA 2019 Briefing by National Security Agency
 
 * [INFILTRATE2019](https://github.com/0xAlexei/INFILTRATE2019) - INFILTRATE 2019 Demo Materials
 
