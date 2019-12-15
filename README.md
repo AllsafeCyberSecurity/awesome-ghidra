@@ -38,8 +38,6 @@ A curated list of awesome Ghidra materials.
 
 * [ghidra_scripts by 0x6d696368](https://github.com/0x6d696368/ghidra_scripts) - Ghidra scripts such as a RC4 decrypter, Yara search, stack string decoder, etc.
 
-* [Youtube playlist by 0x6d696368](https://www.youtube.com/playlist?list=PLXqdTlog3E_8Ucym6klVOY9RmjdIy3cbm) - Youtube playlist with short Ghidra tips and tricks
-
 ## Materials
 * [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Official material by National Security Agency
 
@@ -54,6 +52,8 @@ A curated list of awesome Ghidra materials.
 * [SANS Digital Forensics and Incident Response Blog](https://digital-forensics.sans.org/blog/category/ghidra) - Category - Ghidra
 
 * [Saintcon2019GhidraTalk](https://github.com/kc0bfv/Saintcon2019GhidraTalk) - Talk about PCode emulator at Saintcon 2019 by @kc0bfv
+
+* [Youtube playlist by 0x6d696368](https://www.youtube.com/playlist?list=PLXqdTlog3E_8Ucym6klVOY9RmjdIy3cbm) - Youtube playlist with short Ghidra tips and tricks
 
 ## Others
 
