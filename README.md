@@ -1,10 +1,10 @@
 # awesome-ghidra
-A curated list of awesome ghidra materials.
+A curated list of awesome Ghidra materials.
 
 * [Ghidra: King of the Tools](https://github.com/NationalSecurityAgency/ghidra)
 
 
-## Ghidra Scripts/Plugins/Extention
+## Ghidra Scripts/Plugins/Extension
 
 * [ghidra_script by Allsafe](https://github.com/AllsafeCyberSecurity/ghidra_scripts) - Ghidra scripts for malware analysis
 
