@@ -34,7 +34,7 @@ A curated list of awesome Ghidra materials.
 
 * [INFILTRATE2019](https://github.com/0xAlexei/INFILTRATE2019) - INFILTRATE 2019 Demo Materials
 
-* [Extending Ghidra](https://vimeo.com/377180466) - Mike Bell: Extending Ghidra: from Script to Plugins and Beyond - See more at: https://thecyberwire.com/stories/Mike-Bell-Extending-Ghidra-from-Script-to-Plugins-and-Beyond.html#.dpuf
+* [Extending Ghidra](https://vimeo.com/377180466) - Mike Bell: Extending Ghidra: from Script to Plugins and Beyond
 
 * [An Introduction To Code Analysis With Ghidra](https://threatvector.cylance.com/en_us/home/an-introduction-to-code-analysis-with-ghidra.html) - This article describes an approach for using Ghidra to perform malicious code analysis
 
