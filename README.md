@@ -39,6 +39,7 @@ A curated list of awesome Ghidra materials.
 
 * [SANS Digital Forensics and Incident Response Blog](https://digital-forensics.sans.org/blog/category/ghidra) - Category - Ghidra
 
+* [Saintcon2019GhidraTalk](https://github.com/kc0bfv/Saintcon2019GhidraTalk) - Talk about PCode emulator at Saintcon 2019 by @kc0bfv
 
 ## Others
 
