@@ -38,6 +38,10 @@ A curated list of awesome Ghidra materials.
 
 * [ghidra_scripts by 0x6d696368](https://github.com/0x6d696368/ghidra_scripts) - Ghidra scripts such as a RC4 decrypter, Yara search, stack string decoder, etc.
 
+* [ghidra-jython-kernel](https://github.com/AllsafeCyberSecurity/ghidra-jython-kernel) - Jupyter Kernel for Ghidra's Jython
+
+* [pwndra](https://github.com/0xb0bb/pwndra) - A collection of pwn/CTF related utilities for Ghidra
+
 ## Materials
 * [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Official material by National Security Agency
 
