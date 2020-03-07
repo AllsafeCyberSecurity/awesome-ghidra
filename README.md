@@ -44,6 +44,10 @@ A curated list of awesome Ghidra materials.
 
 * [VTgrepGHIDRA](https://github.com/kasif-dekel/random-stuff/blob/master/VTgrepGHIDRA.JAVA) - vtgrep plugin for Ghidra
 
+* [Color the Executed Instructions](https://github.com/alephsecurity/general-research-tools/tree/master/ghidra_scripts/ColorInstructions) - Color the Executed Instructions
+
+* [ReplaceFuncNameFromLog](https://github.com/alephsecurity/general-research-tools/tree/master/ghidra_scripts/ReplaceFuncNameFromLog) - ReplaceFuncNameFromLog
+
 ## Materials
 * [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Official material by National Security Agency
 
