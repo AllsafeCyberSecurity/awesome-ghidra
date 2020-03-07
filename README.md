@@ -42,6 +42,8 @@ A curated list of awesome Ghidra materials.
 
 * [pwndra](https://github.com/0xb0bb/pwndra) - A collection of pwn/CTF related utilities for Ghidra
 
+* [VTgrepGHIDRA](https://github.com/kasif-dekel/random-stuff/blob/master/VTgrepGHIDRA.JAVA) - vtgrep plugin for Ghidra
+
 ## Materials
 * [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Official material by National Security Agency
 
