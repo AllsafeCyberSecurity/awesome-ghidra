@@ -61,10 +61,6 @@ A curated list of awesome Ghidra materials.
 
 * [Youtube playlist by 0x6d696368](https://www.youtube.com/playlist?list=PLXqdTlog3E_8Ucym6klVOY9RmjdIy3cbm) - Youtube playlist with short Ghidra tips and tricks
 
-* [Patching MacOS Sketch.App](https://duraki.github.io/posts/o/20200214-sketch.app-patch-in-ghidra.html) - Patching MacOS Sketch.App for unlimited Trial in Ghidra
-
-* [Patching MacOS Image2Icon](https://duraki.github.io/posts/o/20200227-ghidra-scripting-image2icon.html) - Scripting in Ghidra, Patching MacOS Image2Icon
-
 ## Others
 
 * [r2ghidra-dec](https://github.com/radareorg/r2ghidra-dec) - Deep ghidra decompiler integration for radare2
