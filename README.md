@@ -1,8 +1,8 @@
-# awesome-ghidra
-A curated list of awesome Ghidra materials.
+# Awesome Ghidra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-* [Ghidra: King of the Tools](https://github.com/NationalSecurityAgency/ghidra)
+[<img src="https://github.com/AllsafeCyberSecurity/awesome-ghidra/master/icon-ghidra.png" align="right" width="90">](https://github.com/NationalSecurityAgency/ghidra)
 
+> [Ghidra](https://github.com/NationalSecurityAgency/ghidra) is a software reverse engineering (SRE) framework created and maintained by the National Security Agency Research Directorate. This framework includes a suite of full-featured, high-end software analysis tools that enable users to analyze compiled code on a variety of platforms including Windows, macOS, and Linux. Capabilities include disassembly, assembly, decompilation, graphing, and scripting, along with hundreds of other features. Ghidra supports a wide variety of processor instruction sets and executable formats and can be run in both user-interactive and automated modes. Users may also develop their own Ghidra plug-in components and/or scripts using Java or Python.
 
 ## Ghidra Scripts/Plugins/Extension
 
@@ -12,7 +12,7 @@ A curated list of awesome Ghidra materials.
 
 * [LazyGhidra](https://github.com/AllsafeCyberSecurity/LazyGhidra) - Make your Ghidra Lazy!
 
-* [FindCrypt-Ghidra](https://github.com/d3v1l401/FindCrypt-Ghidra) - IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database 
+* [FindCrypt-Ghidra](https://github.com/d3v1l401/FindCrypt-Ghidra) - IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database
 
 * [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
 
@@ -30,7 +30,7 @@ A curated list of awesome Ghidra materials.
 
 * [Daenerys](https://github.com/daenerys-sre/source) - A framework for interoperability between IDA and Ghidra
 
-* [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs. 
+* [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
 
 * [Ghidra Patch Diff Correlator Project](https://github.com/threatrack/ghidra-patchdiff-correlator) - This project tries to provide additional Ghidra Version Tracking Correlators suitable for patch diffing.
 
@@ -49,6 +49,7 @@ A curated list of awesome Ghidra materials.
 * [ReplaceFuncNameFromLog](https://github.com/alephsecurity/general-research-tools/tree/master/ghidra_scripts/ReplaceFuncNameFromLog) - ReplaceFuncNameFromLog
 
 ## Materials
+
 * [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Official material by National Security Agency
 
 * [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc) - Black Hat USA 2019 Briefing by National Security Agency
