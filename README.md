@@ -62,8 +62,6 @@
 
 * [An Introduction To Code Analysis With Ghidra](https://threatvector.cylance.com/en_us/home/an-introduction-to-code-analysis-with-ghidra.html) - This article describes an approach for using Ghidra to perform malicious code analysis
 
-* [SANS Digital Forensics and Incident Response Blog](https://digital-forensics.sans.org/blog/category/ghidra) - Category - Ghidra
-
 * [Saintcon2019GhidraTalk](https://github.com/kc0bfv/Saintcon2019GhidraTalk) - Talk about PCode emulator at Saintcon 2019 by @kc0bfv
 
 * [Youtube playlist by 0x6d696368](https://www.youtube.com/playlist?list=PLXqdTlog3E_8Ucym6klVOY9RmjdIy3cbm) - Youtube playlist with short Ghidra tips and tricks
