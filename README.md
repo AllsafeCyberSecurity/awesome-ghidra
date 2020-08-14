@@ -50,6 +50,8 @@
 
 ## Materials
 
+* [リバースエンジニアリングツールGhidra実践ガイド ~セキュリティコンテスト入門からマルウェア解析まで~ (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
+
 * [ghidra/GhidraDocs/GhidraClass/](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass) - Official material by National Security Agency
 
 * [Ghidra - Journey from Classified NSA Tool to Open Source](https://www.youtube.com/watch?v=kx2xp7IQNSc) - Black Hat USA 2019 Briefing by National Security Agency
