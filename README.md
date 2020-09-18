@@ -69,7 +69,7 @@
 * [Ghidra Code Analysis with Anuj Soni](https://www.youtube.com/watch?v=NCO9F7U3d6c) - Ghidra lecuture by 
 SANS Digital Forensics and Incident Response channel
 
-* [The Ghidra Book by Chris Eagle](https://nostarch.com/GhidraBook) - "The definitive guide to Ghidra" by the author of the [IDA Pro Book](https://nostarch.com/idapro2.htm)
+* [The Ghidra Book by Chris Eagle and Kara Nance](https://nostarch.com/GhidraBook) - "The definitive guide to Ghidra" by the author of the [IDA Pro Book](https://nostarch.com/idapro2.htm)
 
 ## Others
 
