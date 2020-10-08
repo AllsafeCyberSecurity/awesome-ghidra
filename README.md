@@ -12,6 +12,8 @@
 
 * [LazyGhidra](https://github.com/AllsafeCyberSecurity/LazyGhidra) - Make your Ghidra Lazy!
 
+* [py-findcrypt-ghidra](https://github.com/AllsafeCyberSecurity/py-findcrypt-ghidra) - FindCrypt for Ghidra written in Python. All constants are referenced from [findcrypt](https://github.com/you0708/ida/tree/master/idapython_tools/findcrypt).
+
 * [FindCrypt-Ghidra](https://github.com/d3v1l401/FindCrypt-Ghidra) - IDA Pro's FindCrypt ported to Ghidra, with an updated and customizable signature database
 
 * [ret-sync](https://github.com/bootleg/ret-sync) - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra disassemblers.
