@@ -50,6 +50,8 @@
 
 * [ReplaceFuncNameFromLog](https://github.com/alephsecurity/general-research-tools/tree/master/ghidra_scripts/ReplaceFuncNameFromLog) - ReplaceFuncNameFromLog
 
+* [Quark Engine](https://github.com/quark-engine/ghidraquark) -  A Ghidra plugin that provides powerful overview for Android Apps.
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
