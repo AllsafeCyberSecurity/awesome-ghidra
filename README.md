@@ -50,6 +50,8 @@
 
 * [ReplaceFuncNameFromLog](https://github.com/alephsecurity/general-research-tools/tree/master/ghidra_scripts/ReplaceFuncNameFromLog) - ReplaceFuncNameFromLog
 
+* [Ghidra-evm](https://github.com/adelapie/ghidra-evm) - Ghidra-evm is a ghidra module (processor module, custom loader and plugin(s)) that disassembles Ethereum VM (EVM) bytecode and generates a control-flow graph (CFG) of a smart contract.
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
