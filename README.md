@@ -50,7 +50,9 @@
 
 * [ReplaceFuncNameFromLog](https://github.com/alephsecurity/general-research-tools/tree/master/ghidra_scripts/ReplaceFuncNameFromLog) - ReplaceFuncNameFromLog
 
-* [Quark Engine](https://github.com/quark-engine/ghidraquark) -  A Ghidra plugin that provides powerful overview for Android Apps.
+* [ghidraquark](https://github.com/quark-engine/ghidraquark) -  A Ghidra plugin that provides powerful overview for Android Apps.
+
+* [Ghidra-evm](https://github.com/adelapie/ghidra-evm) - Ghidra-evm is a ghidra module (processor module, custom loader and plugin(s)) that disassembles Ethereum VM (EVM) bytecode and generates a control-flow graph (CFG) of a smart contract.
 
 ## Materials
 
