@@ -24,6 +24,8 @@
 
 * [ghidra_bridge](https://github.com/justfoxing/ghidra_bridge) - Python 3 bridge to Ghidra's Python scripting
 
+* [ipyghidra](https://github.com/fmagin/ipyghidra) - IPython Extension that extends `ghidra_bridge` for an improved interactive experience in the IPython console
+  
 * [GhidraPAL](https://github.com/RolfRolles/GhidraPAL) - Ghidra Program Analysis Library
 
 * [pcode-emulator](https://github.com/kc0bfv/pcode-emulator) - A PCode Emulator for Ghidra.
@@ -42,6 +44,8 @@
 
 * [ghidra-jython-kernel](https://github.com/AllsafeCyberSecurity/ghidra-jython-kernel) - Jupyter Kernel for Ghidra's Jython
 
+* [Kotlin Jupyter Kernel](https://github.com/GhidraJupyter/ghidra-jupyter-kotlin) - Embeds the [Kotlin kernel](https://github.com/Kotlin/kotlin-jupyter) into the CodeBrowser or other tools, for a full-fledged Kotlin REPL or Jupyter Notebook alongside a GUI session, including `current*` variables, autocompletions based on static type inference and more.
+
 * [pwndra](https://github.com/0xb0bb/pwndra) - A collection of pwn/CTF related utilities for Ghidra
 
 * [VTgrepGHIDRA](https://github.com/kasif-dekel/random-stuff/blob/master/VTgrepGHIDRA.JAVA) - vtgrep plugin for Ghidra
@@ -53,6 +57,7 @@
 * [ghidraquark](https://github.com/quark-engine/ghidraquark) -  A Ghidra plugin that provides powerful overview for Android Apps.
 
 * [Ghidra-evm](https://github.com/adelapie/ghidra-evm) - Ghidra-evm is a ghidra module (processor module, custom loader and plugin(s)) that disassembles Ethereum VM (EVM) bytecode and generates a control-flow graph (CFG) of a smart contract.
+
 
 ## Materials
 
