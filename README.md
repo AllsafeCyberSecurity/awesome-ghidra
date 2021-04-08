@@ -32,6 +32,8 @@
 
 * [ghidra-data](https://github.com/0x6d696368/ghidra-data) - Supporting Data Archives for Ghidra
 
+* [JNI Helper](https://github.com/evilpan/jni_helper) - Find JNI function signatures in APK and apply to Ghidra.
+
 * [Daenerys](https://github.com/daenerys-sre/source) - A framework for interoperability between IDA and Ghidra
 
 * [OOAnalyzer Plugin for Ghidra](https://github.com/cmu-sei/pharos/tree/master/tools/ooanalyzer/ghidra/OOAnalyzerPlugin) - OOAnalyzer is a tool for the analysis and recovery of object oriented constructs.
@@ -47,6 +49,8 @@
 * [Kotlin Jupyter Kernel](https://github.com/GhidraJupyter/ghidra-jupyter-kotlin) - Embeds the [Kotlin kernel](https://github.com/Kotlin/kotlin-jupyter) into the CodeBrowser or other tools, for a full-fledged Kotlin REPL or Jupyter Notebook alongside a GUI session, including `current*` variables, autocompletions based on static type inference and more.
 
 * [pwndra](https://github.com/0xb0bb/pwndra) - A collection of pwn/CTF related utilities for Ghidra
+
+* [vtgrepghidra](https://github.com/Sentinel-One/VTgrepGHIDRA) - VT-GHIDRA Plugin
 
 * [VTgrepGHIDRA](https://github.com/kasif-dekel/random-stuff/blob/master/VTgrepGHIDRA.JAVA) - vtgrep plugin for Ghidra
 
