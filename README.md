@@ -62,6 +62,13 @@
 
 * [Ghidra-evm](https://github.com/adelapie/ghidra-evm) - Ghidra-evm is a ghidra module (processor module, custom loader and plugin(s)) that disassembles Ethereum VM (EVM) bytecode and generates a control-flow graph (CFG) of a smart contract.
 
+* [efiSeek for Ghidra](https://github.com/DSecurity/efiSeek) - The analyzer automates the process of researching EFI files.
+
+* [CapaExplorer](https://github.com/reb311ion/CapaExplorer) - Capa analysis importer for Ghidra.
+
+* [ghidra_scripts by Dump-GUY](https://github.com/Dump-GUY/ghidra_scripts) - tiny_tracer_tag_annotate and CAPA_Importer.
+
+* [Intezer Analyze Ghidra Plugin](https://github.com/intezer/analyze-community-ghidra-plugin) -  Ghidra plugin for Intezer.
 
 ## Materials
 
