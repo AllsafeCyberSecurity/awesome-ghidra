@@ -70,6 +70,9 @@
 
 * [Intezer Analyze Ghidra Plugin](https://github.com/intezer/analyze-community-ghidra-plugin) -  Ghidra plugin for Intezer.
 
+* [IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes) - A collection of (public and private) types and functions definitions useful for Objective-C binaries analysis. Supports Ghidra and IDA
+
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
