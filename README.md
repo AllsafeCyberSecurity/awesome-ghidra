@@ -70,6 +70,8 @@
 
 * [Intezer Analyze Ghidra Plugin](https://github.com/intezer/analyze-community-ghidra-plugin) -  Ghidra plugin for Intezer.
 
+* [ghidra-printf-inliner](https://github.com/kajaaz/ghidra-printf-inliner) - A Ghidra plugin that automatically inlines printf/println format strings in decompiled code, mainly optimized for Go binaries.
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
