@@ -70,6 +70,8 @@
 
 * [Intezer Analyze Ghidra Plugin](https://github.com/intezer/analyze-community-ghidra-plugin) -  Ghidra plugin for Intezer.
 
+* [ghidra scripts by raptor/0xdea](https://github.com/0xdea/ghidra-scripts) - A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
