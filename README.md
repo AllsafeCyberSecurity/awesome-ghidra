@@ -70,6 +70,8 @@
 
 * [Intezer Analyze Ghidra Plugin](https://github.com/intezer/analyze-community-ghidra-plugin) -  Ghidra plugin for Intezer.
 
+* [ghidra scripts by raptor/0xdea](https://github.com/0xdea/ghidra-scripts) - A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
+
 * [GhidrAI](https://github.com/John-A0/GhidrAI) - A Hybrid AI-Assisted Malware Reverse Engineering Pipeline with zero-hallucination deterministic triage.
 
 ## Materials
