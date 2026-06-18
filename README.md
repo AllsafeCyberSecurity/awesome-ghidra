@@ -72,6 +72,8 @@
 
 * [ghidra scripts by raptor/0xdea](https://github.com/0xdea/ghidra-scripts) - A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
 
+* [GhidrAI](https://github.com/John-A0/GhidrAI) - A Hybrid AI-Assisted Malware Reverse Engineering Pipeline with zero-hallucination deterministic triage.
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
