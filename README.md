@@ -70,6 +70,8 @@
 
 * [Intezer Analyze Ghidra Plugin](https://github.com/intezer/analyze-community-ghidra-plugin) -  Ghidra plugin for Intezer.
 
+* [IDAObjcTypes](https://github.com/PoomSmart/IDAObjcTypes) - A collection of (public and private) types and functions definitions useful for Objective-C binaries analysis. Supports Ghidra and IDA
+
 * [ghidra-printf-inliner](https://github.com/kajaaz/ghidra-printf-inliner) - A Ghidra plugin that automatically inlines printf/println format strings in decompiled code, mainly optimized for Go binaries.
 
 * [ghidra scripts by raptor/0xdea](https://github.com/0xdea/ghidra-scripts) - A collection of Ghidra scripts to facilitate reverse engineering and vulnerability research.
