@@ -78,6 +78,8 @@
 
 * [GhidrAI](https://github.com/John-A0/GhidrAI) - A Hybrid AI-Assisted Malware Reverse Engineering Pipeline with zero-hallucination deterministic triage.
 
+* [freertos-ghidra](https://github.com/keremmisik/freertos-ghidra) - Recovers FreeRTOS task names, entry-function addresses, stack depth, and priority from xTaskCreate call sites via PCode analysis. Renames entry functions and defines TCB_t/List_t/ListItem_t data types. Available as both a standalone script and a Ghidra Extension/Analyzer.
+
 ## Materials
 
 * [リバースエンジニアリングツールGhidra実践ガイド -セキュリティコンテスト入門からマルウェア解析まで- (Compass Booksシリーズ)](https://www.amazon.co.jp/dp/4839973776/) - The Practical guide book to Ghidra written in Japanese
