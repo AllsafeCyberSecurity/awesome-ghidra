@@ -108,3 +108,4 @@ SANS Digital Forensics and Incident Response channel
 * [Ghidraaas](https://github.com/Cisco-Talos/Ghidraaas) - simple web server that exposes Ghidra analysis through REST APIs
 
 * [Ghidra Server](https://www.ghidra-server.org/) - Ghidra-Server.org provides a collaboration server on the internet for the software reverse engineering (SRE) global community using the open source software (OSS) project Ghidra's server feature.
+* [Open-ReverseLab](https://github.com/LING71671/open-reverselab) - Agent-native AI reverse-engineering lab whose MCP server exposes Ghidra headless analysis to Claude Code / Codex, alongside Frida, x64dbg, Rizin and YARA tooling and a runnable attack knowledge base.
