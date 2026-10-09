@@ -107,4 +107,6 @@ SANS Digital Forensics and Incident Response channel
 
 * [Ghidraaas](https://github.com/Cisco-Talos/Ghidraaas) - simple web server that exposes Ghidra analysis through REST APIs
 
+* [REA](https://github.com/morluto/rea) - Local CLI and MCP frontend for agent-assisted analysis with a separately installed Ghidra, returning evidence provenance and explicit analysis limitations.
+
 * [Ghidra Server](https://www.ghidra-server.org/) - Ghidra-Server.org provides a collaboration server on the internet for the software reverse engineering (SRE) global community using the open source software (OSS) project Ghidra's server feature.
