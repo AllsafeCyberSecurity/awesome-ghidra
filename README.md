@@ -108,3 +108,5 @@ SANS Digital Forensics and Incident Response channel
 * [Ghidraaas](https://github.com/Cisco-Talos/Ghidraaas) - simple web server that exposes Ghidra analysis through REST APIs
 
 * [Ghidra Server](https://www.ghidra-server.org/) - Ghidra-Server.org provides a collaboration server on the internet for the software reverse engineering (SRE) global community using the open source software (OSS) project Ghidra's server feature.
+
+* [Treasure Map](https://github.com/JoeyZzZzZz/treasure-map) - MCP server built on headless Ghidra that maps dangerous call sites across every binary in an unpacked firmware for AI agents, and diffs two firmware versions at function level.
